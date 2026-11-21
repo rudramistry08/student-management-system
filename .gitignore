@@ -1,0 +1,11 @@
+# Compiled executable files
+student.exe
+student_stage4.exe
+*.exe
+*.o
+
+# Student database - keep local
+students.dat
+
+# VS Code settings
+.vscode/
